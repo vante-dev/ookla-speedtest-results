@@ -12,7 +12,7 @@ These instructions will guide you on how to set up and use the script to fetch s
 ### Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/vante.dev/ookla-speedtest-results.git
+git clone https://github.com/vante-dev/ookla-speedtest-results.git
 cd ookla-speedtest-results
 ```
 
